@@ -1,0 +1,6 @@
+<script src='http://site.ru/wp-includes/js/mainkonec.js'></script>
+
+
+id="zagolovok"
+
+&utm_key=15892136543
